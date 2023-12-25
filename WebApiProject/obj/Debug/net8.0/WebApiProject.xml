@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiProject</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiProject.Controllers.FilmeController.adicionaFilme(WebApiProject.Data.Dtos.CreateFilmeDto)">
+            <summary>
+              Adiciona um filme ao banco de dados
+            </summary>
+            <param name="filmeDto">Objeto com os campos necessário para criação de um FILME</param>
+            <returns code="201">
+              Caso a inserção tenha sido feita com sucesso
+            </returns>
+        </member>
+        <member name="T:WebApiProject.Migrations.CriandoTabelaDeFilme">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.CriandoTabelaDeFilme.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.CriandoTabelaDeFilme.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.CriandoTabelaDeFilme.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
