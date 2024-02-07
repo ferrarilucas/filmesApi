@@ -1,3 +1,4 @@
 /data
 .env
 .vs
+/WebApiProject/bin/

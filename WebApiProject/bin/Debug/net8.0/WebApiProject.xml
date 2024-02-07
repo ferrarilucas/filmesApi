@@ -25,5 +25,53 @@
         <member name="M:WebApiProject.Migrations.CriandoTabelaDeFilme.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
+        <member name="T:WebApiProject.Migrations.CinemaeEnderecoadded">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.CinemaeEnderecoadded.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.CinemaeEnderecoadded.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.CinemaeEnderecoadded.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApiProject.Migrations.EnderecoUpdateTypes">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.EnderecoUpdateTypes.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.EnderecoUpdateTypes.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.EnderecoUpdateTypes.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApiProject.Migrations.SessaoandFimeModified">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.SessaoandFimeModified.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.SessaoandFimeModified.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.SessaoandFimeModified.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApiProject.Migrations.AddCinemaIdOnSession">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.AddCinemaIdOnSession.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.AddCinemaIdOnSession.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiProject.Migrations.AddCinemaIdOnSession.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
     </members>
 </doc>

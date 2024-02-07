@@ -6,7 +6,6 @@ C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\WebA
 C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\WebApiProject.dll
 C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\WebApiProject.pdb
 C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\Humanizer.dll
 C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -48,3 +47,5 @@ C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\Newt
 C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\WebApiProject.xml
 C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\obj\Debug\net8.0\WebApiProject.xml
+C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\lucas\Documents\code\aulanetcoreweb\WebApiProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
